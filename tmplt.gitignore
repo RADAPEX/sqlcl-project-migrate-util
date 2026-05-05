@@ -1,0 +1,6 @@
+
+### Set any working files to be .gitignored
+login.sql
+temp.sql
+*.code-workspace
+
