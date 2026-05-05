@@ -1,3 +1,3 @@
-# sqlutil
+# sqlcl-project-migrate-util
 
-Includes some templates that are used by a shellscript to do a `project export`.
+Includes some scripts & templates that are used by a shellscript to do a `project export`.
